@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Isha%20Akram&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Software%20Engineer%20•%20Backend%20Developer%20•%20AI%20Enthusiast&descSize=18&descAlignY=74)
-
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isha-akram-95ba192b9/)
 
