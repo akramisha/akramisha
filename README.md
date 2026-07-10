@@ -54,16 +54,10 @@
 
 <h2>📊 GitHub Statistics</h2>
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        ![](https://github-readme-stats.shion.dev/api?username=akramisha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
-      </td>
-      <td width="20"></td> <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nightowl&title_color=CEB2BD&text_color=E2D2C8&bg_color=2D1B33&border_color=9B59B6" width="350" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
+ ![](https://github-readme-stats.shion.dev/api?username=akramisha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
+    ![](https://streak-stats.demolab.com/?user=akramisha&theme=dark&hide_border=false)<br />
+    ![](https://github-readme-stats.shion.dev/api/top-langs/?username=akramisha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+    
 </div>
 
 <br />
