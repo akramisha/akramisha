@@ -1,7 +1,7 @@
 <div align="center">
 
 <div style="
-      background-image: url('assets/header.jpg');
+      background-image: url('https://github.com/akramisha/akramisha/blob/main/assets/header.jpg');
       background-size: cover;
       background-position: center;
       border-radius: 18px;
