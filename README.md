@@ -10,7 +10,7 @@ Passionate Software Developer with a strong interest in building modern, scalabl
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8fLd4EszDnW6cLecm2peStaIoiOvTd12tZ5iMef_oUOl7gZbVbbJRTZg&s=10)" alt="laravel" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
