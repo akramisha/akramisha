@@ -1,19 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Isha%20Akram&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Software%20Engineer%20•%20Backend%20Developer%20•%20AI%20Enthusiast&descSize=18&descAlignY=74)
-<div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isha-akram-95ba192b9/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akram007esha@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)]( https://isha-akram-portfolio.netlify.app/)
-
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/isha-akram-95ba192b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:akram007esha@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://isha-akram-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+</p>
 
 ---
 
 ## 🧠 About Me
-
-## 👋 About Me
 
 Hi! I'm **Isha Akram**, a Software Engineering enthusiast from Pakistan 🇵🇰.
 
@@ -65,21 +59,13 @@ Become a Software Engineer specializing in AI-powered web applications.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Currently Learning
-
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-Learning-0EA5E9?style=for-the-badge&logo=icloud&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Learning-8B5CF6?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-Planning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Planning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ---
 
 ## Featured Projects
 
-## 🚀 Featured Projects
-
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/Heart-Anomaly-Detection">
+<a href="https://github.com//Heart-Anomaly-Detection">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Heart-Anomaly-Detection&theme=nightowl&bg_color=2D1B33&border_color=9B59B6" width="48%"/>
 </a>
 
