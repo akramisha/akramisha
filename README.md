@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="./assets/header.png"
+    src="./assets/header.jpg"
     width="100%"
     alt="Welcome to Isha's GitHub"
   />
@@ -162,7 +162,7 @@
 
 <div align="center">
   <img
-    src="./assets/footer.png"
+    src="./assets/footer.jpg"
     width="100%"
     alt="Isha Akram GitHub profile footer"
   />
