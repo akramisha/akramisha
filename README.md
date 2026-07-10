@@ -1,159 +1,170 @@
-# Welcome to Isha's GitHub 🚀
-
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<table>
-<tr>
-<td width="60%" align="left">
+  <table>
+    <tr>
+      <!-- LEFT: TEXT -->
+      <td align="left" width="55%">
+        
+## Welcome to Isha’s GitHub
 
-# 👋 Welcome to Isha's GitHub
+<p>
+  I build backend systems with <b>Laravel</b> & <b>Django</b>, and I love integrating <b>AI</b> into real-world web applications.
+</p>
 
-**Isha Akram** • Software Engineer • AI Enthusiast
+<p>
+  Focused on writing clean, scalable code and continuously sharpening my skills through projects and learning.
+</p>
 
-*Building intelligent web applications with Laravel, Django & AI*
+      </td>
 
-</td>
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/akramisha/akramisha/main/assets/header-illustration.png" width="280" alt="Aesthetic Illustration"/>
-
-</td>
-</tr>
-</table>
+      <!-- RIGHT: IMAGE -->
+      <td align="right" width="45%">
+        <img src="https://i.pinimg.com/originals/7b/4d/f5/7b4df5d4d1c4b0c3c8d3c06ab1dbf3c5.png" width="300" alt="Aesthetic coder illustration"/>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
----
+<br/>
+
+<!-- Light theme divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6F0FF&height=3&section=header" width="90%"/>
+</div>
+
+<br/>
+
+<!-- ===================== ABOUT + CONNECT ===================== -->
+<table>
+  <tr>
+    <!-- LEFT SIDE -->
+    <td align="left" width="60%">
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
+Passionate Software Developer focused on building **modern, scalable web applications**.  
+I enjoy turning ideas into reliable systems through **clean architecture**, **problem-solving**, and constant learning.
 
-Hi! I'm **Isha Akram**, a Software Engineering enthusiast from Pakistan 🇵🇰.
+- Backend: **Laravel**, **Django**
+- Interests: **AI-powered web apps**, automation, practical ML
+- Final Year Project: **AI Heart Anomaly Detection (ECG image analysis)**
+- Currently learning: **Python**, **AI Development**, **Cloud Computing**
+- Goal: **Software Engineer specializing in AI-powered web products**
 
-💻 I enjoy building backend systems using **Laravel** and **Django**.
+### 🤝 Connect With Me
 
-🤖 I'm passionate about integrating **Artificial Intelligence into web applications**.
+<!-- Square buttons (same size) -->
+<a href="https://www.linkedin.com/in/isha-akram-95ba192b9/" target="_blank">
+  <img src="https://img.icons8.com/fluency/96/linkedin.png" width="52" height="52" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:akram007esha@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="52" height="52" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://isha-akram-portfolio.netlify.app/" target="_blank">
+  <img src="https://img.icons8.com/fluency/96/domain.png" width="52" height="52" alt="Portfolio"/>
+</a>
 
-❤️ My Final Year Project was an AI-powered Heart Anomaly Detection System capable of analyzing ECG images.
+    </td>
 
-🌱 Currently learning:
-- Python
-- AI Development
-- Cloud Computing
-
-🎯 Goal: Become a Software Engineer specializing in AI-powered web applications.
-
-</td>
-<td width="35%" align="center" valign="top">
-
-<img src="https://picsum.photos/id/1011/280/340" width="260" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" alt="Aesthetic Cartoon Illustration"/>
-
-</td>
-</tr>
+    <!-- RIGHT SIDE AESTHETIC IMAGE -->
+    <td align="right" width="40%">
+      <img src="https://i.pinimg.com/originals/2d/9f/48/2d9f48b0f7484e6d7eddbad6f7ddc6d7.png" width="320" alt="Aesthetic cartoon"/>
+    </td>
+  </tr>
 </table>
 
----
-
-## 🔗 Connect With Me
+<br/>
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://www.linkedin.com/in/isha-akram-95ba192b9/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" width="140" height="50" style="border-radius: 12px;" alt="LinkedIn"/>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="mailto:akram007esha@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" width="140" height="50" style="border-radius: 12px;" alt="Gmail"/>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://isha-akram-portfolio.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" width="140" height="50" style="border-radius: 12px;" alt="Portfolio"/>
-</a>
-</td>
-</tr>
-</table>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6F0FF&height=3&section=header" width="90%"/>
 </div>
 
----
+<br/>
 
+<!-- ===================== GITHUB STATS (2 BOXES) ===================== -->
 ## 📈 GitHub Statistics
 
 <div align="center">
-
-<table>
-<tr>
-<td width="49%" align="center">
-
-### Isha Akram's GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=akramisha&show_icons=true&theme=nightowl&title_color=CEB2BD&icon_color=9B59B6&text_color=E2D2C8&bg_color=2D1B33&border_color=9B59B6" width="100%"/>
-
-</td>
-<td width="49%" align="center">
-
-### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramisha&layout=compact&theme=nightowl&title_color=CEB2BD&text_color=E2D2C8&bg_color=2D1B33&border_color=9B59B6" width="100%"/>
-
-</td>
-</tr>
-</table>
-
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=akramisha&show_icons=true&theme=nightowl&title_color=CEB2BD&icon_color=9B59B6&text_color=E2D2C8&bg_color=2D1B33&border_color=9B59B6"
+          width="100%"
+          alt="Isha Akram GitHub Stats"
+        />
+      </td>
+      <td width="50%" align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramisha&layout=compact&theme=nightowl&title_color=CEB2BD&text_color=E2D2C8&bg_color=2D1B33&border_color=9B59B6"
+          width="100%"
+          alt="Most Used Languages"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br/>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6F0FF&height=3&section=header" width="90%"/>
+</div>
+
+<br/>
+
+<!-- ===================== TOOLS & TECHNOLOGIES ===================== -->
 ## 🛠 Tools & Technologies
 
-<div align="center" style="margin: 20px 0;">
-
-<img src="https://skillicons.dev/icons?i=python,django,php,laravel,html,css,js,bootstrap,mysql,git,github,vscode,linux&theme=dark" width="85%"/>
-
-</div>
-
----
-
-## 🔥 Featured Projects
+<!--
+Square dark buttons with slight rounded corners:
+Using <img> with a dark badge background from shields.io for consistent look.
+-->
 
 <div align="center">
 
-<a href="https://github.com/akramisha/Heart-Anomaly-Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akramisha&repo=Heart-Anomaly-Detection&theme=nightowl&bg_color=2D1B33&border_color=9B59B6" width="48%"/>
-</a>
-<a href="https://github.com/akramisha/Golden-Spice">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akramisha&repo=Golden-Spice&theme=nightowl&bg_color=2D1B33&border_color=9B59B6" width="48%"/>
-</a>
-<br>
-<a href="https://github.com/akramisha/EMO-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akramisha&repo=EMO-AI&theme=nightowl&bg_color=2D1B33&border_color=9B59B6" width="48%"/>
-</a>
-<a href="https://github.com/akramisha/Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akramisha&repo=Portfolio&theme=nightowl&bg_color=2D1B33&border_color=9B59B6" width="48%"/>
-</a>
+  <!-- Row 1 -->
+  <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-1f2937?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-1f2937?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-1f2937?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=white" />
+
+  <br/><br/>
+
+  <!-- Row 2 -->
+  <img src="https://img.shields.io/badge/HTML5-1f2937?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1f2937?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-1f2937?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <br/><br/>
+
+  <!-- Row 3 -->
+  <img src="https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-1f2937?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-1f2937?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-1f2937?style=for-the-badge&logo=opencv&logoColor=white" />
 
 </div>
 
----
-
-## 🐍 Contribution Graph
+<br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akramisha&theme=nightowl&bg_color=2D1B33&color=CEB2BD&line=9B59B6&point=FFFFFF&area=true&hide_border=false" width="95%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6F0FF&height=3&section=header" width="90%"/>
 </div>
 
----
+<br/>
 
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-**© 2026 Isha Akram • Made with ❤️ in Pakistan**
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2D1B33&height=140&section=footer&text=Thanks%20for%20visiting!&fontColor=E2D2C8&fontSize=28" width="100%"/>
 
 </div>
