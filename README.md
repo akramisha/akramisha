@@ -1,7 +1,7 @@
 <div align="center">
 
 <div style="
-      background-image: url(./assets/header.jpg);
+      background-image: url(assets/header.jpg);
       background-size: cover;
       background-position: center;
       border-radius: 18px;
@@ -26,15 +26,15 @@
 <div align="center">
     <div style="background:#FFE4EC; border-radius:18px; padding:22px; width:95%; max-width:1100px;">
 
-        <!-- ===================== DIVIDER ===================== -->
+       
 <hr style="border:none; height:2px; background:rgba(155, 89, 182, 0.35); margin:18px 0;" />
 
-        <!-- ===================== CONNECT WITH ME ===================== -->
+       
 <h2 align="left" style="margin: 6px 0 14px;">🌐 Connect with me</h2>
 
 <div align="left">
-            <!-- Square icon buttons -->
-            <a href="https://www.linkedin.com/in/isha-akram-95ba192b9/" target="_blank">
+          
+ <a href="https://www.linkedin.com/in/isha-akram-95ba192b9/" target="_blank">
                 <img src="https://img.icons8.com/fluency/96/linkedin.png" width="56" height="56" alt="LinkedIn" />
             </a>
             &nbsp;&nbsp;
@@ -47,10 +47,10 @@
             </a>
         </div>
 
-        <!-- ===================== DIVIDER ===================== -->
+       
 <hr style="border:none; height:2px; background:rgba(155, 89, 182, 0.35); margin:18px 0;" />
 
-        <!-- ===================== ABOUT ME ===================== -->
+       
 <h2 align="left" style="margin: 6px 0 10px;">💫 About Me</h2>
 
 <p align="left" style="margin:0; line-height:1.6;">
@@ -59,19 +59,19 @@
             learning.
         </p>
 
-        <!-- ===================== DIVIDER ===================== -->
+       
 <hr style="border:none; height:2px; background:rgba(155, 89, 182, 0.35); margin:18px 0;" />
 
-        <!-- ===================== TECHNOLOGIES ===================== -->
+       
 <p align="center">
         <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,html,css,bootstrap,mysql,postgres,git,github,vscode&amp;perline=8&amp;theme=dark"
             alt="Python, Django, PHP, Laravel, JavaScript, HTML, CSS, Bootstrap, MySQL, PostgreSQL, Git, GitHub, VS Code" />
     </p>
 
-        <!-- ===================== DIVIDER ===================== -->
+        
 <hr style="border:none; height:2px; background:rgba(155, 89, 182, 0.35); margin:18px 0;" />
 
-        <!-- ===================== STATISTICS (2 boxes side-by-side) ===================== -->
+       
 <h2 align="left" style="margin: 6px 0 14px;">📊 Statistics</h2>
 
 <div align="center">
@@ -89,23 +89,21 @@
             </table>
         </div>
 
-        <!-- ===================== DIVIDER ===================== -->
+       
 <hr style="border:none; height:2px; background:rgba(155, 89, 182, 0.35); margin:18px 0;" />
 
-        <!-- ===================== TOTAL CONTRIBUTIONS (center) ===================== -->
-        <!-- Using streak stats as your "total contributions" box, centered -->
+       
 <div align="center">
             <img src="https://streak-stats.demolab.com/?user=akramisha&theme=synthwave&hide_border=false" width="70%"
                 alt="Contribution Streak" />
         </div>
 
-        <!-- ===================== DIVIDER ===================== -->
+       
 <hr style="border:none; height:2px; background:rgba(155, 89, 182, 0.35); margin:18px 0;" />
 
-        <!-- ===================== FOOTER (image) ===================== -->
-        <!-- Replace FOOTER_IMAGE_URL with the image you shared for footer -->
+       
 <div align="center">
-            <img src="./assets/footer.jpg" width="95%" style="border-radius:18px;" alt="Footer" />
+            <img src="assets/footer.jpg" width="95%" style="border-radius:18px;" alt="Footer" />
         </div>
 
 </div>
