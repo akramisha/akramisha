@@ -1,23 +1,6 @@
 <div align="center">
-
-<div style="
-      background-image: url('https://github.com/akramisha/akramisha/blob/main/assets/header.jpg');
-      background-size: cover;
-      background-position: center;
-      border-radius: 18px;
-      padding: 70px 20px;
-      border: 1px solid rgba(0,0,0,0.08);
-      width: 95%;
-      max-width: 1100px;
-    ">
-        <h1 style="margin:0; color:#000000; text-shadow: 0px 3px 18px rgba(0,0,0,0.55); font-size: 42px;">
-            Welcome to Isha’s GitHub
-        </h1>
-        <p style="margin-top:10px; color:#000000; text-shadow: 0px 3px 18px rgba(0,0,0,0.55); font-size: 16px;">
-            Backend • Web Apps • AI Integration
-        </p>
-    </div>
-
+<img src="assets/Welcome to Isha's GitHub.png" width="95%" style="border-radius:18px;" alt="header" />
+       
 </div>
 
 <br />
