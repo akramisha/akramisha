@@ -1,170 +1,85 @@
-<!-- ===================== HEADER ===================== -->
-<div align="center">
-
-  <table>
-    <tr>
-      <!-- LEFT: TEXT -->
-      <td align="left" width="55%">
-        
-## Welcome to Isha’s GitHub
-
-<p>
-  I build backend systems with <b>Laravel</b> & <b>Django</b>, and I love integrating <b>AI</b> into real-world web applications.
-</p>
-
-<p>
-  Focused on writing clean, scalable code and continuously sharpening my skills through projects and learning.
-</p>
-
-      </td>
-
-      <!-- RIGHT: IMAGE -->
-      <td align="right" width="45%">
-        <img src="https://i.pinimg.com/originals/7b/4d/f5/7b4df5d4d1c4b0c3c8d3c06ab1dbf3c5.png" width="300" alt="Aesthetic coder illustration"/>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br/>
-
-<!-- Light theme divider -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6F0FF&height=3&section=header" width="90%"/>
-</div>
-
-<br/>
-
-<!-- ===================== ABOUT + CONNECT ===================== -->
-<table>
-  <tr>
-    <!-- LEFT SIDE -->
-    <td align="left" width="60%">
-
-## 🧠 About Me
-
-Passionate Software Developer focused on building **modern, scalable web applications**.  
-I enjoy turning ideas into reliable systems through **clean architecture**, **problem-solving**, and constant learning.
-
-- Backend: **Laravel**, **Django**
-- Interests: **AI-powered web apps**, automation, practical ML
-- Final Year Project: **AI Heart Anomaly Detection (ECG image analysis)**
-- Currently learning: **Python**, **AI Development**, **Cloud Computing**
-- Goal: **Software Engineer specializing in AI-powered web products**
-
-### 🤝 Connect With Me
-
-<!-- Square buttons (same size) -->
-<a href="https://www.linkedin.com/in/isha-akram-95ba192b9/" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/linkedin.png" width="52" height="52" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:akram007esha@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="52" height="52" alt="Gmail"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://isha-akram-portfolio.netlify.app/" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/domain.png" width="52" height="52" alt="Portfolio"/>
-</a>
-
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr bgcolor="#1e1e2e">
+    <td align="left" valign="middle" style="padding: 40px 20px;">
+      <h1 style="color: #cdd6f4; font-family: 'Segoe UI', sans-serif; font-size: 32px; margin: 0;">Welcome to Isha's GitHub 🚀</h1>
+      <p style="color: #bac2de; font-size: 16px; margin-top: 10px;">Building the future with clean code and intelligent systems.</p>
     </td>
-
-    <!-- RIGHT SIDE AESTHETIC IMAGE -->
-    <td align="right" width="40%">
-      <img src="https://i.pinimg.com/originals/2d/9f/48/2d9f48b0f7484e6d7eddbad6f7ddc6d7.png" width="320" alt="Aesthetic cartoon"/>
+    <td align="right" valign="middle" style="padding: 20px;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computer/Laptop.png" alt="Laptop" width="120" />
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="65%" valign="top" align="left">
+      <h2>🧠 About Me</h2>
+      <p style="font-size: 16px; line-height: 1.6;">
+        Passionate Software Developer with a strong interest in building modern, scalable web applications. 
+        I enjoy solving real-world problems through clean code and continuously improving my technical skills.
+      </p>
+      <p style="font-size: 16px; line-height: 1.6;">
+        💻 Love architecting backends using <b>Laravel</b> and <b>Django</b>, while integrating intelligent features into the web ecosystem.
+      </p>
+      <br />
+      <h3>🤝 Connect with Me</h3>
+      <a href="https://www.linkedin.com/in/isha-akram-95ba192b9/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" height="45" alt="LinkedIn" />
+      </a>
+      &nbsp;
+      <a href="mailto:akram007esha@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" height="45" alt="Gmail" />
+      </a>
+      &nbsp;
+      <a href="https://isha-akram-portfolio.netlify.app/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="45" height="45" alt="Portfolio" />
+      </a>
+    </td>
+    <td width="35%" valign="middle" align="right">
+      <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=600&auto=format&fit=crop" width="220" style="border-radius: 15px;" alt="Aesthetic Geometric Art" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2>🛠️ Tools & Technologies</h2>
+<p align="center" style="padding: 0 40px;">
+  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,html,css,bootstrap,mysql,postgres,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+<h2>📊 GitHub Statistics</h2>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6F0FF&height=3&section=header" width="90%"/>
-</div>
-
-<br/>
-
-<!-- ===================== GITHUB STATS (2 BOXES) ===================== -->
-## 📈 GitHub Statistics
-
-<div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="50%" align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=akramisha&show_icons=true&theme=nightowl&title_color=CEB2BD&icon_color=9B59B6&text_color=E2D2C8&bg_color=2D1B33&border_color=9B59B6"
-          width="100%"
-          alt="Isha Akram GitHub Stats"
-        />
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nightowl&title_color=CEB2BD&icon_color=9B59B6&text_color=E2D2C8&bg_color=2D1B33&border_color=9B59B6" width="400" alt="Isha Akram's GitHub Stats" />
       </td>
-      <td width="50%" align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramisha&layout=compact&theme=nightowl&title_color=CEB2BD&text_color=E2D2C8&bg_color=2D1B33&border_color=9B59B6"
-          width="100%"
-          alt="Most Used Languages"
-        />
+      <td width="20"></td> <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nightowl&title_color=CEB2BD&text_color=E2D2C8&bg_color=2D1B33&border_color=9B59B6" width="350" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6F0FF&height=3&section=header" width="90%"/>
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </div>
 
-<br/>
+---
 
-<!-- ===================== TOOLS & TECHNOLOGIES ===================== -->
-## 🛠 Tools & Technologies
-
-<!--
-Square dark buttons with slight rounded corners:
-Using <img> with a dark badge background from shields.io for consistent look.
--->
-
-<div align="center">
-
-  <!-- Row 1 -->
-  <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-1f2937?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-1f2937?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-1f2937?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=white" />
-
-  <br/><br/>
-
-  <!-- Row 2 -->
-  <img src="https://img.shields.io/badge/HTML5-1f2937?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1f2937?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-1f2937?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-  <br/><br/>
-
-  <!-- Row 3 -->
-  <img src="https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-1f2937?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-1f2937?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-1f2937?style=for-the-badge&logo=opencv&logoColor=white" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6F0FF&height=3&section=header" width="90%"/>
-</div>
-
-<br/>
-
-<!-- ===================== FOOTER ===================== -->
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2D1B33&height=140&section=footer&text=Thanks%20for%20visiting!&fontColor=E2D2C8&fontSize=28" width="100%"/>
-
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr bgcolor="#11111b">
+    <td align="center" style="padding: 20px;">
+      <p style="color: #a6adc8; font-size: 14px; margin: 0; font-family: monospace;">
+        ⚡ Done with dedication • Powered by Code & Coffee ☕
+      </p>
+    </td>
+  </tr>
+</table>
