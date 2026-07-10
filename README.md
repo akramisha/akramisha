@@ -4,7 +4,7 @@
 
   <div
     style="
-      background-image: url('HEADER_IMAGE_URL');
+      background-image: url('');
       background-size: cover;
       background-position: center;
       border-radius: 18px;
@@ -149,7 +149,7 @@
 <!-- ===================== FOOTER (image) ===================== -->
 <!-- Replace FOOTER_IMAGE_URL with the image you shared for footer -->
 <div align="center">
-  <img src="FOOTER_IMAGE_URL" width="95%" style="border-radius:18px;" alt="Footer"/>
+  <img src="https://i.pinimg.com/control1/736x/2b/09/b8/2b09b8f443d7cb7211e55b2822f18f6f.jpg" width="95%" style="border-radius:18px;" alt="Footer"/>
 </div>
 
   </div>
