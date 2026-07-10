@@ -8,8 +8,9 @@ Passionate Software Developer with a strong interest in building modern, scalabl
 # 💻 Tech Stack:
  <p align="center">
         <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,html,css,bootstrap,mysql,postgres,tensorflow,opencv,git,github,vscode,linux&amp;perline=8&amp;theme=dark"
-            alt="Python, Django, PHP, Laravel, JavaScript, HTML, CSS, Bootstrap, MySQL, PostgreSQL, TensorFlow, OpenCV, Git, GitHub, VS Code and Linux" />
+            alt="Python, Django, PHP, Laravel, JavaScript, HTML, CSS, Bootstrap, MySQL, PostgreSQL, Git, GitHub, VS Code " />
     </p>
+    
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=akramisha&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=akramisha&theme=synthwave&hide_border=false)<br/>
