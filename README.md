@@ -1,169 +1,156 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== HEADER (background image + text) ===================== -->
+<!-- Replace HEADER_IMAGE_URL with the image you shared for header -->
+<div align="center">
+
+  <div
+    style="
+      background-image: url('./assets/header.png');
+      background-size: cover;
+      background-position: center;
+      border-radius: 18px;
+      padding: 70px 20px;
+      border: 1px solid rgba(0,0,0,0.08);
+      width: 95%;
+      max-width: 1100px;
+    "
+  >
+    <h1 style="margin:0; color:#ffffff; text-shadow: 0px 3px 18px rgba(0,0,0,0.55); font-size: 42px;">
+      Welcome to Isha’s GitHub
+    </h1>
+    <p style="margin-top:10px; color:#fff; text-shadow: 0px 3px 18px rgba(0,0,0,0.55); font-size: 16px;">
+      Backend • Web Apps • AI Integration
+    </p>
+  </div>
+
+</div>
+
+<br/>
+
+<!-- ===================== LIGHT PINK THEME WRAPPER ===================== -->
+<!-- GitHub README can't truly change the whole profile background, but we can create a light-pink themed layout using blocks like this -->
+<div align="center">
+  <div style="background:#FFE4EC; border-radius:18px; padding:22px; width:95%; max-width:1100px;">
+
+<!-- ===================== DIVIDER ===================== -->
+<hr style="border:none; height:2px; background:rgba(155, 89, 182, 0.35); margin:18px 0;" />
+
+<!-- ===================== CONNECT WITH ME ===================== -->
+<h2 align="left" style="margin: 6px 0 14px;">🌐 Connect with me</h2>
+
+<div align="left">
+  <!-- Square icon buttons -->
+  <a href="https://www.linkedin.com/in/isha-akram-95ba192b9/" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="56" height="56" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:akram007esha@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="56" height="56" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://isha-akram-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/domain.png" width="56" height="56" alt="Portfolio"/>
+  </a>
+</div>
+
+<!-- ===================== DIVIDER ===================== -->
+<hr style="border:none; height:2px; background:rgba(155, 89, 182, 0.35); margin:18px 0;" />
+
+<!-- ===================== ABOUT ME ===================== -->
+<h2 align="left" style="margin: 6px 0 10px;">💫 About Me</h2>
+
+<p align="left" style="margin:0; line-height:1.6;">
+  I’m a passionate Software Developer focused on building <b>modern</b> and <b>scalable</b> web applications.
+  I love solving real-world problems through <b>clean code</b>, solid backend architecture, and continuous learning.
+</p>
+
+<!-- ===================== DIVIDER ===================== -->
+<hr style="border:none; height:2px; background:rgba(155, 89, 182, 0.35); margin:18px 0;" />
+
+<!-- ===================== TECHNOLOGIES ===================== -->
+<h2 align="left" style="margin: 6px 0 14px;">💻 Technologies</h2>
+
+<h3 align="left" style="margin: 6px 0 10px;">Languages</h3>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-1f2937?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-1f2937?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1f2937?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+<br/>
+
+<h3 align="left" style="margin: 6px 0 10px;">Frameworks & Libraries</h3>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Laravel-1f2937?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-1f2937?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-1f2937?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-1f2937?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-1f2937?style=for-the-badge&logo=opencv&logoColor=white" />
+</div>
+
+<br/>
+
+<h3 align="left" style="margin: 6px 0 10px;">Tools</h3>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-1f2937?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+<!-- ===================== DIVIDER ===================== -->
+<hr style="border:none; height:2px; background:rgba(155, 89, 182, 0.35); margin:18px 0;" />
+
+<!-- ===================== STATISTICS (2 boxes side-by-side) ===================== -->
+<h2 align="left" style="margin: 6px 0 14px;">📊 Statistics</h2>
 
 <div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img
+          src="https://github-readme-stats.shion.dev/api?username=akramisha&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false"
+          width="100%"
+          alt="Isha Akram GitHub Stats"
+        />
+      </td>
+      <td width="50%" align="center">
+        <img
+          src="https://github-readme-stats.shion.dev/api/top-langs/?username=akramisha&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+          width="100%"
+          alt="Most Used Languages"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ===================== DIVIDER ===================== -->
+<hr style="border:none; height:2px; background:rgba(155, 89, 182, 0.35); margin:18px 0;" />
+
+<!-- ===================== TOTAL CONTRIBUTIONS (center) ===================== -->
+<!-- Using streak stats as your "total contributions" box, centered -->
+<div align="center">
   <img
-    src="./assets/header.jpg"
-    width="100%"
-    alt="Welcome to Isha's GitHub"
+    src="https://streak-stats.demolab.com/?user=akramisha&theme=synthwave&hide_border=false"
+    width="70%"
+    alt="Contribution Streak"
   />
 </div>
 
-<br />
+<!-- ===================== DIVIDER ===================== -->
+<hr style="border:none; height:2px; background:rgba(155, 89, 182, 0.35); margin:18px 0;" />
 
-<img src="./assets/pink-divider.svg" width="100%" alt="" />
-
-<!-- ===================== CONNECT ===================== -->
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/isha-akram-95ba192b9/" title="Connect with me on LinkedIn">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&amp;theme=light"
-      width="58"
-      height="58"
-      alt="LinkedIn"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:akram007esha@gmail.com" title="Send me an email">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=gmail&amp;theme=light"
-      width="58"
-      height="58"
-      alt="Gmail"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://isha-akram-portfolio.netlify.app/" title="Visit my portfolio">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=netlify&amp;theme=light"
-      width="58"
-      height="58"
-      alt="Portfolio"
-    />
-  </a>
-</p>
-
-<br />
-
-<img src="./assets/pink-divider.svg" width="100%" alt="" />
-
-<!-- ===================== ABOUT ===================== -->
-
-<h2 align="center">💫 About Me</h2>
-
-<p align="center">
-  Passionate Software Developer with a strong interest in building modern,
-  scalable web applications. I enjoy solving real-world problems through
-  clean code and continuously improving my technical skills.
-</p>
-
-<p align="center">
-  I am especially interested in
-  <strong>backend development, artificial intelligence,</strong>
-  and building <strong>AI-powered web applications</strong>.
-</p>
-
-<br />
-
-<img src="./assets/pink-divider.svg" width="100%" alt="" />
-
-<!-- ===================== TECHNOLOGIES ===================== -->
-
-<h2 align="center">💻 Technologies</h2>
-
-<h3 align="center">Languages</h3>
-
-<p align="center">
-  <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=python,php,javascript,html,css&amp;theme=dark"
-    alt="Python, PHP, JavaScript, HTML and CSS"
-  />
-</p>
-
-<br />
-
-<h3 align="center">Frameworks &amp; Libraries</h3>
-
-<p align="center">
-  <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=laravel,django,bootstrap,tensorflow,opencv&amp;theme=dark"
-    alt="Laravel, Django, Bootstrap, TensorFlow and OpenCV"
-  />
-</p>
-
-<br />
-
-<h3 align="center">Tools &amp; Databases</h3>
-
-<p align="center">
-  <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,git,github,vscode,linux&amp;theme=dark"
-    alt="MySQL, PostgreSQL, Git, GitHub, Visual Studio Code and Linux"
-  />
-</p>
-
-<br />
-
-<img src="./assets/pink-divider.svg" width="100%" alt="" />
-
-<!-- ===================== STATISTICS ===================== -->
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<br />
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.shion.dev/api?username=akramisha&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;custom_title=Isha%20Akram%27s%20GitHub%20Stats&amp;bg_color=FFF1F5&amp;title_color=BE185D&amp;text_color=831843&amp;icon_color=EC4899&amp;border_color=F9A8D4&amp;border_radius=15&amp;hide_border=false"
-    alt="Isha Akram's GitHub statistics"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=akramisha&amp;layout=compact&amp;langs_count=8&amp;custom_title=Most%20Used%20Languages&amp;bg_color=FFF1F5&amp;title_color=BE185D&amp;text_color=831843&amp;border_color=F9A8D4&amp;border_radius=15&amp;hide_border=false"
-    alt="Isha Akram's most used languages"
-  />
-</p>
-
-<br />
-
-<img src="./assets/pink-divider.svg" width="100%" alt="" />
-
-<!-- ===================== CONTRIBUTIONS ===================== -->
-
-<h2 align="center">🔥 Total Contributions</h2>
-
-<p align="center">
-  <img
-    width="62%"
-    src="https://streak-stats.demolab.com/?user=akramisha&amp;background=FFF1F5&amp;border=F9A8D4&amp;stroke=F472B6&amp;ring=DB2777&amp;fire=FB7185&amp;currStreakNum=831843&amp;sideNums=831843&amp;currStreakLabel=BE185D&amp;sideLabels=BE185D&amp;dates=9D174D&amp;border_radius=15"
-    alt="Isha Akram's total contributions and GitHub streak"
-  />
-</p>
-
-<br />
-
-<img src="./assets/pink-divider.svg" width="100%" alt="" />
-
-<!-- ===================== PROFILE VIEWS ===================== -->
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=akramisha&amp;label=PROFILE+VIEWS&amp;color=ec4899&amp;style=for-the-badge"
-    alt="Profile views"
-  />
-</p>
-
-<br />
-
-<!-- ===================== FOOTER ===================== -->
-
+<!-- ===================== FOOTER (image) ===================== -->
+<!-- Replace FOOTER_IMAGE_URL with the image you shared for footer -->
 <div align="center">
-  <img
-    src="./assets/footer.jpg"
-    width="100%"
-    alt="Isha Akram GitHub profile footer"
-  />
+  <img src="./assets/footer.png" width="95%" style="border-radius:18px;" alt="Footer"/>
+</div>
+
+  </div>
 </div>
