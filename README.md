@@ -57,7 +57,7 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nightowl&title_color=CEB2BD&icon_color=9B59B6&text_color=E2D2C8&bg_color=2D1B33&border_color=9B59B6" width="400" alt="Isha Akram's GitHub Stats" />
+        ![](https://github-readme-stats.shion.dev/api?username=akramisha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
       </td>
       <td width="20"></td> <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nightowl&title_color=CEB2BD&text_color=E2D2C8&bg_color=2D1B33&border_color=9B59B6" width="350" alt="Most Used Languages" />
