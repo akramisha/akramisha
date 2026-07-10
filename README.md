@@ -1,7 +1,7 @@
 <div align="center">
 
 <div style="
-      background-image: url(assets/header.jpg);
+      background-image: url('assets/header.jpg');
       background-size: cover;
       background-position: center;
       border-radius: 18px;
