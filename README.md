@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/Welcome to Isha's GitHub.png" width="95%" style="border-radius:18px;" alt="header" />
+<img src="assets/main.png" width="95%" style="border-radius:18px;" alt="header" />
        
 </div>
 
