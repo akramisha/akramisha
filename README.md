@@ -4,7 +4,7 @@
 
   <div
     style="
-      background-image: url('');
+      background-image: url('https://i.pinimg.com/736x/38/db/68/38db68a1fd7118f432e58f09ff30f188.jpg');
       background-size: cover;
       background-position: center;
       border-radius: 18px;
