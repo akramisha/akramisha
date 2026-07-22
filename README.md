@@ -90,6 +90,11 @@
        
 <hr style="border:none; height:2px; background:rgba(155, 89, 182, 0.35); margin:18px 0;" />
 
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/akramisha/akramisha/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+</div>
        
 <div align="center">
             <img src="assets/footer.jpg" width="95%" style="border-radius:18px;" alt="Footer" />
