@@ -84,7 +84,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akramisha&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-trophies.vercel.app/?username=akramisha&theme=radical&no-frame=true&row=1&column=6 />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:833ab4,100:fd1d1d&height=2&width=1000" width="100%"/>
