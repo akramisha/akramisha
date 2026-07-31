@@ -61,11 +61,11 @@
             <table width="100%">
                 <tr>
                     <td width="50%" align="center">
-                        <img src="https://github-readme-stats.shion.dev/api?username=akramisha&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+                        <img src="https://github-readme-stats.shion.dev/api?username=akramisha&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false"
                             width="100%" alt="Isha Akram GitHub Stats" />
                     </td>
                     <td width="50%" align="center">
-                        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=akramisha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+                        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=akramisha&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
                             width="100%" alt="Most Used Languages" />
                     </td>
                 </tr>
