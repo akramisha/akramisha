@@ -31,7 +31,7 @@
         </div>
 
        
-<hr style="border:none; height:2px; background:pink_heart; margin:18px 0;" />
+<hr style="border:none; height:2px; background-color:pink_heart; margin:18px 0;" />
 
        
 <h2 align="left" style="margin: 6px 0 10px;">💫 About Me</h2>
